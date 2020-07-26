@@ -1,0 +1,3 @@
+rootProject.name='ID Parser'
+include ':app'
+include ':idparser'
